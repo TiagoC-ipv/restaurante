@@ -1,0 +1,15 @@
+[
+    {"codigo":1,
+     "nome": "Hambúrguer",
+      "tipo": "normal",
+      "categoria":"Prato principal" },
+
+{ "codigo":2,
+"nome": "Pizza",
+ "tipo": "normal",
+ "categoria":"Prato principal" },
+
+{ "codigo":3,
+"nome": "Carbonara",
+ "tipo": "normal",
+ "categoria":"Prato principal" }]
