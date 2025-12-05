@@ -12,7 +12,7 @@ app.use((req, res, next) => {
 });
 
 
-const authMiddleware = require("./middleware/authMiddleware.j s");
+const authMiddleware = require("./middleware/authMiddleware.js");
 const User = require("./Models/user.js");
 
 
